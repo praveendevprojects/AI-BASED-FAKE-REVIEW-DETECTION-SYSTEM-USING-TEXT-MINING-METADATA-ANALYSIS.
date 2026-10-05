@@ -1,0 +1,2 @@
+# AI-BASED-FAKE-REVIEW-DETECTION-SYSTEM-USING-TEXT-MINING-METADATA-ANALYSIS.
+Online reviews significantly influence customer purchasing decisions and business reputation. However, the increasing number of fake and manipulated reviews reduces consumer trust and affects the credibility of online platforms. Traditional review moderation techniques rely on manual verification and keyword-based filtering.
